@@ -1,0 +1,15 @@
+/* Header */
+.header {
+background: var(--Neutral-White, #FFF);
+box-shadow: 0 2.784px 5.569px 0 rgba(171, 190, 209, 0.40);
+}
+
+/* Hero */
+.hero {
+background: var(--Neutral-Silver, #F5F7FA);
+}
+
+/* Our client */
+.our-client {
+background: var(--Neutral-Silver, #F5F7FA);
+}
